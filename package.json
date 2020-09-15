@@ -13,5 +13,8 @@
     "@nuxtjs/google-fonts": "^1.0.2",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.14.0"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
