@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Alex Shuey</h1>
-    <h2>Programmer, Gamer, Foodie</h2>
+    <h2>Full Stack Software Engineer</h2>
     <div class="social-links">
       <a href="mailto:alex@alexshuey.com" class="social-link">
         <email-icon></email-icon>
@@ -9,7 +9,7 @@
       <a href="https://github.com/ashuey" class="social-link">
         <github-icon></github-icon>
       </a>
-      <a href="https://www.linkedin.com/in/alexandershuey/" class="social-link">
+      <a href="https://www.linkedin.com/in/ashuey/" class="social-link">
         <linkedin-icon></linkedin-icon>
       </a>
     </div>
